@@ -4,6 +4,7 @@
 */target/*
 */bin/*
 target/
+logs/
 .settings/
 .project
 
